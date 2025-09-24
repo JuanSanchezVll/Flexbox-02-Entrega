@@ -27,4 +27,4 @@ Estilize a div com classe "container-desafio" para que fique como abaixo:
 
 ![image (2)](https://github.com/user-attachments/assets/7a5abae9-38f8-4b65-803f-67de69d8d04b)
 
-#by Juan David Valle Sánchez
+# by Juan David Valle Sánchez
